@@ -1,3 +1,5 @@
+# PROJECT AKHIR DICODING - E-COMMERCES
+
 Proyek ini merupakan bagian dari tugas akhir kursus "Belajar Analisis Data dengan Python" di Dicoding. Dalam proyek ini, saya melakukan analisis terhadap dataset transaksi e-commerce dan membangun dashboard interaktif menggunakan Streamlit. Proses yang saya lakukan mencakup pembersihan data, eksplorasi untuk mengidentifikasi pola, serta visualisasi data melalui grafik interaktif. 
 ## 1. File Struktur
    ```plaintext
