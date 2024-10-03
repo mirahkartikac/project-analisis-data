@@ -64,10 +64,6 @@ Proyek ini merupakan bagian dari tugas akhir kursus "Belajar Analisis Data denga
 
 1. Download file projectnya.
 2. Install Streamlit di terminal dengan mengetikkan `pip install streamlit`.
-
- - Buat file `requirements.txt` yang berisi library yang dibutuhkan seperti pandas, numpy, matplotlib, dan seaborn.
- - Install library tersebut dengan mengetikkan `pip install -r requirements.txt` di terminal.
-
 3. Pastikan file CSV (dataset) disimpan dalam folder yang sama dengan file `dashboard.py` atau `main.py`.
 4. Buka Visual Studio Code (VSCode), aktifkan virtual environment dengan mengetikkan perintah berikut di terminal:
 
