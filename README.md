@@ -5,21 +5,24 @@ Proyek ini merupakan bagian dari tugas akhir kursus "Belajar Analisis Data denga
    ```plaintext
 ├── Dashboard
 │   ├── dashboard.py
-│   └── df_jam_analisis.csv
-│   └── BikeSharing.png
+│   └── df_all_data.csv
 ├── data
-│   ├── Readme.txt
-│   ├── day.csv
-│   └── hour.csv
+│   ├── orders.csv
+│   ├── product_category_name_translation.csv
+│   ├── product_dataset.csv
+│   ├── sellers_dataset.csv
+│   ├── geolocation_dataset.csv
+│   ├── new_text_document.txt
+│   ├── order_items_dataset.csv
+│   ├── order_reviews_dataset.csv
+│   └── customers_dataset.csv
 ├── screenshots
-│   ├── Screenshots 1.png
-│   ├── Screenshots 2.png
-│   ├── Screenshots 3.png
-│   ├── Screenshots 4.png
-│   └── Screenshots 5.png
+│   ├── Screenshots_1.png
+│   ├── Screenshots_2.png
+│   ├── Screenshots_3.png
+│   └── Screenshots_4.png
 ├── README.md
-├── notebook.ipynb
-└── requirements.txt
+└── notebook.ipynb
   ```
 
 ## 2. Langkah-langkah mengerjakan project
