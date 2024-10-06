@@ -4,8 +4,8 @@ Proyek ini merupakan bagian dari tugas akhir kursus "Belajar Analisis Data denga
 ## 1. File Struktur
    ```plaintext
 ├── Dashboard
-│   ├── dashboard.py
-│   └── df_all_data.csv
+│   ├── main.py
+│   └── all_data.csv
 ├── data
 │   ├── orders.csv
 │   ├── product_category_name_translation.csv
@@ -77,19 +77,14 @@ Proyek ini merupakan bagian dari tugas akhir kursus "Belajar Analisis Data denga
 streamlit run main.py
 ```
 
-  - Jika menggunakan `dashboard.py`, ubah perintahnya menjadi:
-
-   ```bash
-   streamlit run dashboard.py
-   ```
-
 ## 4. Screenshoot
-![image](https://github.com/user-attachments/assets/6b1f9a6a-98ec-42b9-99bc-e4e284954743)
+<img width="943" alt="Screenshot 2024-10-06 183151" src="https://github.com/user-attachments/assets/b49ab2c4-35e0-46ea-9670-c291a25a777e">
+<img width="946" alt="Screenshot 2024-10-06 183216" src="https://github.com/user-attachments/assets/e3c731de-c74f-4e01-9243-dc780edc1315">
+<img width="950" alt="Screenshot 2024-10-06 183231" src="https://github.com/user-attachments/assets/e727824f-1554-42e4-a4be-2ab5d43eaa29">
+<img width="949" alt="Screenshot 2024-10-06 183243" src="https://github.com/user-attachments/assets/5ac74d8b-2d6e-4b12-88cf-db413253edc1">
 
-![image](https://github.com/user-attachments/assets/8fd366c5-73fb-4a44-b686-f97797683289)
 
-![image](https://github.com/user-attachments/assets/b64eb10b-dbf3-4e73-a314-7e01c151f121)
 
-![image](https://github.com/user-attachments/assets/0e6f9a89-43e8-4979-a565-1b8da6477d71)
+
 
 
