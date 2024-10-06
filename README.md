@@ -20,7 +20,8 @@ Proyek ini merupakan bagian dari tugas akhir kursus "Belajar Analisis Data denga
 │   ├── Screenshots_1.png
 │   ├── Screenshots_2.png
 │   ├── Screenshots_3.png
-│   └── Screenshots_4.png
+│   ├── Screenshots_4.png
+│   └── Screenshots_5.png
 ├── README.md
 └── notebook.ipynb
   ```
@@ -78,10 +79,16 @@ streamlit run main.py
 ```
 
 ## 4. Screenshoot
-<img width="943" alt="Screenshot 2024-10-06 183151" src="https://github.com/user-attachments/assets/b49ab2c4-35e0-46ea-9670-c291a25a777e">
-<img width="946" alt="Screenshot 2024-10-06 183216" src="https://github.com/user-attachments/assets/e3c731de-c74f-4e01-9243-dc780edc1315">
-<img width="950" alt="Screenshot 2024-10-06 183231" src="https://github.com/user-attachments/assets/e727824f-1554-42e4-a4be-2ab5d43eaa29">
-<img width="949" alt="Screenshot 2024-10-06 183243" src="https://github.com/user-attachments/assets/5ac74d8b-2d6e-4b12-88cf-db413253edc1">
+<img width="948" alt="Screenshot 2024-10-06 203328" src="https://github.com/user-attachments/assets/ea5d5ab1-5b4e-4eae-8842-654bde97ef52">
+<img width="948" alt="Screenshot 2024-10-06 203343" src="https://github.com/user-attachments/assets/980d3508-9632-4d8c-940d-cdb0028d0ae0">
+<img width="951" alt="Screenshot 2024-10-06 203358" src="https://github.com/user-attachments/assets/e1295dc0-65e7-4ad4-9b01-a51837eff69b">
+<img width="952" alt="Screenshot 2024-10-06 203409" src="https://github.com/user-attachments/assets/e3fadc29-c6c6-40e0-b117-fa3b22925678">
+<img width="947" alt="Screenshot 2024-10-06 203420" src="https://github.com/user-attachments/assets/a3fda279-4467-4987-b0ce-01edab5eeeb1">
+<img width="948" alt="Screenshot 2024-10-06 203436" src="https://github.com/user-attachments/assets/816098f3-30a8-4e2a-935f-3939b68148fe">
+
+
+
+
 
 
 
