@@ -21,7 +21,8 @@ Proyek ini merupakan bagian dari tugas akhir kursus "Belajar Analisis Data denga
 │   ├── Screenshots_2.png
 │   ├── Screenshots_3.png
 │   ├── Screenshots_4.png
-│   └── Screenshots_5.png
+│   ├── Screenshots_5.png
+│   └── Screenshots_6.png
 ├── README.md
 └── notebook.ipynb
   ```
